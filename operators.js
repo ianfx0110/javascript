@@ -1,10 +1,13 @@
 // arithmetic + - * / % 
+
 // comparison == === > < <= >=
 
 console.log( 20 >= 20   );
 
 
 // logical  AND OR NOT
+
+
 
 // assignment operators   =  += -= *= 
 
@@ -16,3 +19,4 @@ console.log( 20 >= 20   );
  * What is the difference between == and === in javascript
  * What does the modulus operator do in arithmetics
  */
+

@@ -21,11 +21,12 @@ if(mathScore > 100 || mathScore < 0){
     console.log("Grade: A");
 }
 // block {}
+
 // task - convert this scoring logic to use switch statement syntax
-
-
 // LOOP--- allows you to run a block of repeatedly for a finite number of times
 // for , while , do while
+
+
 // starting point + condition for stopping + change(increment/decrement)
 
 for(let count=0; count>-1000; count=count-1){
